@@ -4,7 +4,7 @@ sudo add-apt-repository ppa:keyd-team/ppa
 
 sudo apt update
 
-sudo apt install keyd ripgrep wget neovim luarocks fd-find wl-clipboard
+sudo apt install keyd ripgrep wget neovim luarocks fd-find wl-clipboard tree-sitter-cli
 
 npm install -g neovim @biomejs/biome typescript-language-server
 
